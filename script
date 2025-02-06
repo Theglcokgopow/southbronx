@@ -34,7 +34,7 @@ end
 game.StarterGui:SetCore(
     "SendNotification",
     {
-	Title = "Zzz's Hub.",
+	Title = "Zzz's Hub.",m
 	Text = "Whitelisted by @zzzsmokedyou.",
 }
 )
